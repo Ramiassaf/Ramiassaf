@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**Ramiassaf/Ramiassaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ **AI & ML Engineer | Data Science Enthusiast | Exploring Generative AI**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about transforming data into intelligent solutions  from predictive models to recommendation systems. My journey is driven by curiosity, continuous learning, and the goal of creating AI solutions that bring realworld impact.  
+
+
+- 🔭 I’m currently working on Building **machine learning models** for prediction, recommendation, and customer behavior analysis.
+- 🌱 I’m currently learning **Generative AI** and advanced **deep learning techniques** to expand my skill set.  
+- 👯 I’m looking to collaborate on **AI/ML projects, data driven applications, and open source contributions**.  
+- 💬 Ask me about Data preprocessing, feature engineering, recommendation systems, and ML pipelines.
+- 📫 How to reach me: assaframi99@gmail.com
+
+
+
+
