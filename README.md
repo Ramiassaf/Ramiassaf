@@ -11,7 +11,6 @@ I'm focused on building practical AI applications powered by LLMs, embeddings, R
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" />
   <img src="https://skillicons.dev/icons?i=github" height="40" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" />
 </div>
@@ -39,19 +38,6 @@ I'm focused on building practical AI applications powered by LLMs, embeddings, R
 
 ## 💬 Ask Me About  
 - RAG, embeddings, LLM workflows, ML pipelines, and data preparation  
-
----
-
-## 📊 GitHub Stats  
-<div align="center">
-  
-![Rami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramiassaf&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramiassaf&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ramiassaf&theme=tokyonight)
-
-</div>
 
 ---
 
