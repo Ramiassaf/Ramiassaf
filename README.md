@@ -2,7 +2,7 @@
 
 **Building production-grade AI systems: RAG pipelines, LLM agents, and ML models that solve real problems.**
 
-I don't just experiment — I ship. From an AI Investment Agent with semantic search retrieval, to a multi-agent travel assistant on CrewAI, to a pneumonia detector trained on chest X-rays. Each project covers the full cycle: architecture, implementation, and deployment.
+I don't just experiment I ship. From an AI Investment Agent with semantic search retrieval, to a multi-agent travel assistant on CrewAI, to a pneumonia detector trained on chest X-rays. Each project covers the full cycle: architecture, implementation, and deployment.
 
 Based in Riyadh, Saudi Arabia. Open to AI Engineer roles.
 
