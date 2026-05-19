@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Rami Assaf  
-**Junior AI Engineer | LLM & GenAI Practitioner | ML Enthusiast**
+** AI Engineer | LLM & GenAI Practitioner | ML Enthusiast**
 
 I'm focused on building practical AI applications powered by LLMs, embeddings, RAG, and agent-based systems. I enjoy turning ideas into working prototypes, exploring modern AI tools, and improving my skills through hands-on projects.
 
