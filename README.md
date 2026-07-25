@@ -2,7 +2,10 @@
 
 **Building production-grade AI systems: RAG pipelines, LLM agents, and ML models that solve real problems.**
 
-I don't just experiment I ship. From an AI Investment Agent with semantic search retrieval, to a multi-agent travel assistant on CrewAI, to a pneumonia detector trained on chest X-rays. Each project covers the full cycle: architecture, implementation, and deployment.
+AI Engineer with hands-on experience building LLM, RAG, agentic AI, and recommendation systems from data 
+preparation to deployment. Skilled in Python, vector search, hybrid retrieval, prompt engineering, and machine 
+learning, with experience delivering low-latency, cost-efficient AI solutions and practical projects across 
+investment research, travel planning, resume screening, and predictive modeling. 
 
 Based in Riyadh, Saudi Arabia. Open to AI Engineer roles.
 
@@ -28,7 +31,7 @@ Based in Riyadh, Saudi Arabia. Open to AI Engineer roles.
 
 ## 🚀 Featured Projects
 
-### 🤖 [AI Investment Agent](https://github.com/Ramiassaf/ai-investment-agent) *(Active Build)*
+### 🤖 [AI Investment Agent](https://github.com/Ramiassaf/ai-investment-agent)
 An autonomous agent that monitors gold and silver markets using RSS ingestion, semantic search retrieval (FAISS + sentence embeddings), and structured LLM reasoning. Built day by day, documented as a learning series.  
 `LangChain` `FAISS` `Semantic Search` `RSS Ingestion` `Multi-source Retrieval`
 
